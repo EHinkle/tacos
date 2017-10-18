@@ -1,3 +1,9 @@
 tortilla
 beans
+avacados
+tomatoes
+cheese
+lettuce
+salsa
+onions
 
